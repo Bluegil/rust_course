@@ -1,3 +1,5 @@
+[![Publish Pages](https://github.com/Bluegil/rust_course/actions/workflows/pages.yml/badge.svg)](https://github.com/Bluegil/rust_course/actions/workflows/pages.yml)
+
 # Rust Course Workspace
 
 A six-week Rust learning workspace with one crate per week.

@@ -11,10 +11,17 @@ rust_course/
 ├── README.md
 ├── .github/
 │   └── workflows/
-│       └── rust.yml
+│       ├── blank.yml
+│       └── pages.yml
+├── site/
+│   └── index.html
 ├── week1/
 ├── week2/
 ├── week3/
 ├── week4/
 ├── week5/
 ├── week6/
+```
+
+The static site in `site/` is published to GitHub Pages by `pages.yml` when
+changes are pushed to `main` or the workflow is run manually.
